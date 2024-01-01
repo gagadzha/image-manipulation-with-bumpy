@@ -1,4 +1,24 @@
-# Image Processing Exercises
+# Image Manipulation with Numpy
+
+## Folder Structure
+
+The project's folder structure is organized as follows:
+
+- **data**: This directory contains two subdirectories, `input` and `output`, where input and output images are stored.
+  - `input`: The directory where the image used for image manipulation exercises is.
+  - 
+  - `output`: The directory where the manipulated images are saved after each exercise.
+
+- **docs**: This directory contains the assignment markdown file.
+
+- **trials**: This directory contains code snippets and trial files created during the development process before creating the final image manipulation notebook.
+
+- **image.yml**: This Conda environment file specifies the Python environment used for this project, including all the required dependencies.
+
+- **final_image_manipulation.ipynb**: This Jupyter Notebook file is the combined iteration of all image manipulation exercises, providing a comprehensive overview of the entire process and showcasing the results of each exercise.
+
+This organized folder structure helps maintain a clear separation of input, output, code trials, and documentation, making it easier to manage and reproduce the image manipulation tasks.
+
 
 ## The original image
 Input: 
